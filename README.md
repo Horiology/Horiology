@@ -22,7 +22,7 @@
 <img src= "https://user-images.githubusercontent.com/84009428/133957662-30600af2-2a79-448a-b8f9-3a21a7d75fb6.gif">
 
 
-- ⚡ Fun fact **I only date anime girls**
+- ⚡ Fun fact **I only date anime girls and have been since 2018.**
 <img src= "https://c.tenor.com/ffwNjCo-P4wAAAAC/dragon-maid-tohru.gif">
 
 <h3 align="left">Connect with me:</h3>
