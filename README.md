@@ -1,5 +1,6 @@
 <h1 align="center">こんいちわ👋, I'm Horiology</h1>
 <h3 align="center">From Japan, Akihabara</h3>
+<img src= https://tenor.com/view/sagiri-gif-18353514>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=horiology&label=Profile%20views&color=0e75b6&style=flat" alt="horiology" /> </p>
 
