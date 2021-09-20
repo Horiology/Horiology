@@ -3,7 +3,7 @@
 <img src= "https://user-images.githubusercontent.com/84009428/133952041-064f34ab-1b77-4a72-8ede-a4dbd873ba08.gif">
 
 <img src= "https://user-images.githubusercontent.com/84009428/133951457-bb50b72c-b2b6-4909-9f5e-e41c4c4e4925.gif">
-<img src= "https://c.tenor.com/ffwNjCo-P4wAAAAC/dragon-maid-tohru.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=horiology&label=Profile%20views&color=0e75b6&style=flat" alt="horiology" /> </p>
@@ -11,10 +11,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=horiology" alt="horiology" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [github.com/horiology](github.com/horiology)
+<img src= "https://user-images.githubusercontent.com/84009428/133953633-94006cf8-1007-4650-8f01-026f694a33a7.gif>
 
 - 📫 How to reach me **redness_cheese.05@icloud.com**
 
 - ⚡ Fun fact **I only date anime girls**
+<img src= "https://c.tenor.com/ffwNjCo-P4wAAAAC/dragon-maid-tohru.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
