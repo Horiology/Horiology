@@ -7,7 +7,7 @@
 <p align="right"> <img src="https://user-images.githubusercontent.com/84009428/133953749-cb37519e-fb15-422f-8f4e-d24dacd83dff.gif">
 
 
-
+<p align="center"> <img src= "https://user-images.githubusercontent.com/84009428/133959068-bd9a49f1-3d51-40d4-85b1-cc773283a410.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=horiology&label=Profile%20views&color=0e75b6&style=flat" alt="horiology" /> </p>
 
@@ -22,7 +22,7 @@
 <img src= "https://user-images.githubusercontent.com/84009428/133957662-30600af2-2a79-448a-b8f9-3a21a7d75fb6.gif">
 
 - **2 years coding experience**
-<img src= "https://user-images.githubusercontent.com/84009428/133959068-bd9a49f1-3d51-40d4-85b1-cc773283a410.gif">
+<img src= "https://user-images.githubusercontent.com/84009428/133965458-ff9ce320-ad8e-470d-a4c3-bc45e26bf3bc.gif">
 
 
 - ⚡ Fun fact **I only date anime girls and have been since 2018.**
