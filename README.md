@@ -1,5 +1,7 @@
 <h1 align="center">こんいちわ👋, I'm Horiology</h1>
 <h3 align="center">From Japan, Akihabara</h3>
+<img src= "https://user-images.githubusercontent.com/84009428/133952041-064f34ab-1b77-4a72-8ede-a4dbd873ba08.gif">
+
 <img src= "https://user-images.githubusercontent.com/84009428/133951457-bb50b72c-b2b6-4909-9f5e-e41c4c4e4925.gif">
 <img src= "https://c.tenor.com/ffwNjCo-P4wAAAAC/dragon-maid-tohru.gif">
 
