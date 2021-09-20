@@ -18,6 +18,8 @@
 <img src= "https://user-images.githubusercontent.com/84009428/133953633-94006cf8-1007-4650-8f01-026f694a33a7.gif">
 
 - 📫 How to reach me **redness_cheese.05@icloud.com**
+<img src= "(https://user-images.githubusercontent.com/84009428/133957662-30600af2-2a79-448a-b8f9-3a21a7d75fb6.gif">
+
 
 - ⚡ Fun fact **I only date anime girls**
 <img src= "https://c.tenor.com/ffwNjCo-P4wAAAAC/dragon-maid-tohru.gif">
