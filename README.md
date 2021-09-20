@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/horiology](github.com/horiology)
 
-<img src= "https://user-images.githubusercontent.com/84009428/133953633-94006cf8-1007-4650-8f01-026f694a33a7.gif>
+<img src= "https://user-images.githubusercontent.com/84009428/133953633-94006cf8-1007-4650-8f01-026f694a33a7.gif">
 
 - 📫 How to reach me **redness_cheese.05@icloud.com**
 
