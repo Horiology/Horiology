@@ -1,6 +1,6 @@
 <h1 align="center">こんいちわ👋, I'm Horiology</h1>
 <h3 align="center">From Japan, Akihabara</h3>
-![gif](https://user-images.githubusercontent.com/84009428/133951457-bb50b72c-b2b6-4909-9f5e-e41c4c4e4925.gif)
+<img src= "https://user-images.githubusercontent.com/84009428/133951457-bb50b72c-b2b6-4909-9f5e-e41c4c4e4925.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=horiology&label=Profile%20views&color=0e75b6&style=flat" alt="horiology" /> </p>
