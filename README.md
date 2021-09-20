@@ -21,7 +21,7 @@
 
 <img src= "https://user-images.githubusercontent.com/84009428/133957662-30600af2-2a79-448a-b8f9-3a21a7d75fb6.gif">
 
-- 2 **coding experience**
+- 2 ** years coding experience**
 <img src= "https://user-images.githubusercontent.com/84009428/133959068-bd9a49f1-3d51-40d4-85b1-cc773283a410.gif">
 
 
