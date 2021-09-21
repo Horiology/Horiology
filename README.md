@@ -30,14 +30,12 @@
 <h3 align="left">Connect with me:</h3>
 
 
-<p align="right">
+<p align="left">
 <a href="https://twitter.com/tohrulogy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tohrulogy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15365644/tohrulogy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="horiology" height="30" width="40" /></a>
-  
-<a href="https://youtube.com/channel/UC5Dc6LnylBE7WJnhYDsv8rg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ᴉn⅄" height="30" width="40" /></a>
-  
+<a href="https://www.youtube.com/c/uc5dc6lnylbe7wjnhydsv8rg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc5dc6lnylbe7wjnhydsv8rg" height="30" width="40" /></a>
 <a href="https://discord.gg/dragonmaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dragonmaid" height="30" width="40" /></a>
 </p>
+
 <img src= "https://user-images.githubusercontent.com/84009428/133954135-357943f5-d014-43a6-9888-5d27a947ad52.gif">
 
 <h3 align="left">Languages and Tools:</h3>
