@@ -4,7 +4,7 @@
 
 <p align= "right"><img src= "https://user-images.githubusercontent.com/84009428/133952041-064f34ab-1b77-4a72-8ede-a4dbd873ba08.gif">
 
-<img src= "https://user-images.githubusercontent.com/84009428/133951457-bb50b72c-b2b6-4909-9f5e-e41c4c4e4925.gif">
+<p align= "left">=<img src= "https://user-images.githubusercontent.com/84009428/133951457-bb50b72c-b2b6-4909-9f5e-e41c4c4e4925.gif">
 
 <p align="right"> <img src="https://user-images.githubusercontent.com/84009428/133953749-cb37519e-fb15-422f-8f4e-d24dacd83dff.gif">
   
