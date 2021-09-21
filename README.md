@@ -29,6 +29,7 @@
 <img src= "https://c.tenor.com/ffwNjCo-P4wAAAAC/dragon-maid-tohru.gif">
 
 <h3 align="left">Connect with me:</h3>
+
 <img src= "https://user-images.githubusercontent.com/84009428/133954135-357943f5-d014-43a6-9888-5d27a947ad52.gif"
 
 <p align="left">
@@ -37,6 +38,7 @@
 <a href="https://youtube.com/channel/UC5Dc6LnylBE7WJnhYDsv8rg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ᴉn⅄" height="30" width="40" /></a>
 <a href="https://discord.gg/dragonmaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dragonmaid" height="30" width="40" /></a>
 </p>
+
 <img src= "https://user-images.githubusercontent.com/84009428/133954203-1e02bac5-52ca-43cf-843c-68ef569a5edd.gif">
 
 <h3 align="left">Languages and Tools:</h3>
