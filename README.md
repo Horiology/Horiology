@@ -30,7 +30,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img src= "https://user-images.githubusercontent.com/84009428/133954135-357943f5-d014-43a6-9888-5d27a947ad52.gif"
+<img src= "https://user-images.githubusercontent.com/84009428/133954135-357943f5-d014-43a6-9888-5d27a947ad52.gif">
 
 <p align="left">
 <a href="https://twitter.com/tohrulogy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tohrulogy" height="30" width="40" /></a>
