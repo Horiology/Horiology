@@ -7,37 +7,32 @@
 <img src= "https://user-images.githubusercontent.com/84009428/133951457-bb50b72c-b2b6-4909-9f5e-e41c4c4e4925.gif">
 
 <p align="right"> <img src="https://user-images.githubusercontent.com/84009428/133953749-cb37519e-fb15-422f-8f4e-d24dacd83dff.gif">
-
+  
 <p align="center"> <img src= "https://user-images.githubusercontent.com/84009428/133959068-bd9a49f1-3d51-40d4-85b1-cc773283a410.gif">
-
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=horiology&label=Profile%20views&color=0e75b6&style=flat" alt="horiology" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=horiology" alt="horiology" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [github.com/horiology](github.com/horiology)
-
 <img src= "https://user-images.githubusercontent.com/84009428/133953633-94006cf8-1007-4650-8f01-026f694a33a7.gif">
 
 - 📫 How to reach me **redness_cheese.05@icloud.com**
-
 <img src= "https://user-images.githubusercontent.com/84009428/133957662-30600af2-2a79-448a-b8f9-3a21a7d75fb6.gif">
 
 - **2 years coding experience**
-
 <img src= "https://user-images.githubusercontent.com/84009428/133965458-ff9ce320-ad8e-470d-a4c3-bc45e26bf3bc.gif">
 
 
 - ⚡ Fun fact **I only date anime girls and have been since 2018.**
-
 <img src= "https://c.tenor.com/ffwNjCo-P4wAAAAC/dragon-maid-tohru.gif">
 
 <h3 align="left">Connect with me:</h3>
 
-<img src= "https://user-images.githubusercontent.com/84009428/133954135-357943f5-d014-43a6-9888-5d27a947ad52.gif">
 
 <p align="left">
 <a href="https://twitter.com/tohrulogy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tohrulogy" height="30" width="40" /></a>
-  
+<img src= "https://user-images.githubusercontent.com/84009428/133954135-357943f5-d014-43a6-9888-5d27a947ad52.gif">
 <a href="https://stackoverflow.com/users/15365644/tohrulogy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="horiology" height="30" width="40" /></a>
   
 <a href="https://youtube.com/channel/UC5Dc6LnylBE7WJnhYDsv8rg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ᴉn⅄" height="30" width="40" /></a>
