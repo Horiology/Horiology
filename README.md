@@ -1,4 +1,4 @@
-<h1 align="center">こんいちわ👋, I'm Horiology</h1>
+<h1 align="center">こんいちわ👋, I'm Tohrulogy</h1>
 
 <h3 align="center">From Japan, Akihabara</h3>
 
