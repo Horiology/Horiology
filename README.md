@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=horiology" alt="horiology" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [github.com/horiology](github.com/horiology)
+- 👨‍💻 All of my projects are available at [github.com/tohrulogy](github.com/tohrulogy)
 <img src= "https://user-images.githubusercontent.com/84009428/133953633-94006cf8-1007-4650-8f01-026f694a33a7.gif">
 
 - 📫 How to reach me **redness_cheese.05@icloud.com**
